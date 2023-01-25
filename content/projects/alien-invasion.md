@@ -6,7 +6,7 @@ draft: false
 
 *Pygame Space Invaders Clone*
 
-[View Codebase »](https://github.com/caz-iii/alien-invasion)
+[View Codebase »](https://github.com/codingwithcarl/alien-invasion)
 
 <!-- ABOUT -->
 ## About

@@ -8,7 +8,7 @@ draft: false
 
 [Visit Site »](https://caz-moovies.netlify.app)  
 
-[View Codebase »](https://github.com/caz-iii/moovies)
+[View Codebase »](https://github.com/codingwithcarl/moovies)
 
 
 <!-- ABOUT -->

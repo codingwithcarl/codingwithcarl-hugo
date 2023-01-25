@@ -6,7 +6,7 @@ draft: false
 
 *Web Scraping Tool for Indeed.com*
 
-[View Codebase »](https://github.com/caz-iii/indeed-web-scraper)
+[View Codebase »](https://github.com/codingwithcarl/indeed-web-scraper)
 
 <!-- ABOUT -->
 ## About

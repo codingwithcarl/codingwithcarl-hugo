@@ -3,9 +3,9 @@
 <!-- HEADER -->
 <br />
 <div align="center">
-    <img src="images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Coder</h3>
+  <h3 align="center">Coding with Carl</h3>
 
   <p align="center">
     Static site generator for codingwithcarl.com
@@ -21,7 +21,7 @@
 
 ![](images/screenshot.png)
 
-This project is a fork of the original Hugo Coder: https://github.com/luizdepra/hugo-coder. Credit goes to the original developer.
+Code repository for my website.
 
 ### Built With
 
@@ -38,7 +38,9 @@ This project is a fork of the original Hugo Coder: https://github.com/luizdepra/
 ### Installation
 
 1. Add the repository into your Hugo Project repository as a submodule, `git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder`.
+
 2. Configure your `config.toml`. You can either use [this minimal configuration](https://github.com/luizdepra/hugo-coder/wiki/Configurations#complete-example) as a base, or look for a complete explanation about all configurations [here](https://github.com/luizdepra/hugo-coder/wiki/Configurations). The [`config.toml`](https://github.com/luizdepra/hugo-coder/blob/master/exampleSite/config.toml) inside the [`exampleSite`](https://github.com/luizdepra/hugo-coder/tree/master/exampleSite) is also a good reference.
+
 3. Build your site with `hugo server` and see the result at `http://localhost:1313/`.
 
 <!-- LICENSE -->
