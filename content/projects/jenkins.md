@@ -1,6 +1,6 @@
 ---
-title: "Jenkins, Terraform, & AWS"
-date: 2023-10-13T12:12:11-04:00
+title: "Jenkins on AWS"
+date: 2023-10-12T12:12:11-04:00
 draft: true
 ---
 
@@ -41,7 +41,7 @@ Ensure to sign into the AWS CLI.
 aws login
 ```
 
-Modify the data sources and resources to match your current environment. See my blog post for an explaination [here]().
+Modify the data sources and resources to match your current environment. See my blog post for an explanation [here]().
 
 Initalize Terraform, validate the plan to provision the AWS resources, and apply.
 
