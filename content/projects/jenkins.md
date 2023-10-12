@@ -1,12 +1,12 @@
 ---
 title: "Jenkins, Terraform, & AWS"
-date: 2023-10-02T18:55:09-04:00
+date: 2023-10-13T12:12:11-04:00
 draft: true
 ---
 
 *Terraform Repository to deploy a Jenkins server to AWS.*  
 
-[View Codebase »]()
+[View Codebase »](https://github.com/codingwithcarl/tf-jenkins-server)
 
 <!-- ABOUT -->
 ## About
@@ -33,7 +33,7 @@ The Jenkins Controller and a Jenkins Agent will be provisioned on two separate E
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-IaC to manage your CI/CD infrastructure. Once deployed, ensure to consult the [documentation](https://www.jenkins.io/doc/book/), configure Jenkins for your environment, and write a [Jenkinsfile](https://www.jenkins.io/doc/book/pipeline/jenkinsfile/) under your project repository.
+This is IaC to manage your CI/CD infrastructure. Once deployed, ensure to consult the [documentation](https://www.jenkins.io/doc/book/), configure Jenkins for your environment, and write a [Jenkinsfile](https://www.jenkins.io/doc/book/pipeline/jenkinsfile/) under your project repository.
 
 Ensure to sign into the AWS CLI.
 
