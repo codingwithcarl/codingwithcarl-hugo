@@ -35,3 +35,5 @@ embedded Tomcat server.) and Spring Boot DevTools (provides us with the Spring B
 tools, which provide automatic restart functionality. It makes development much
 faster because the application is automatically restarted when changes have been
 saved.)
+
+intellij - Current File > Edit Configs > Add > Application > com.codingwithcarl.cardDB.CardDbApplication
