@@ -1,6 +1,6 @@
 +++ 
-draft = true
-date = 2023-11-06T12:15:33-05:00
+draft = false
+date = 2023-11-07T09:01:39-05:00
 title = "Spring"
 description = "An introduction to the Spring Framework and Spring Boot"
 slug = ""
@@ -20,17 +20,25 @@ Oftentimes, you will hear developers incorrectly use the term "Spring Boot" and 
 
 ### Spring Initializr
 
-[Spring Initializr](https://start.spring.io/)
+[Spring Initializr](https://start.spring.io/) is a web-based tool that facilitates the rapid kick-starting of Spring-based applications by generating a foundational project structure with the necessary dependencies. Developed by the Spring team, it offers an intuitive and user-friendly interface allowing developers to select the specific dependencies, programming language, build tools, and version preferences for their Spring Boot project. 
 
-Project: Maven
-Language: Java
-Spring Boot: 3.1.4
-Packaging: Jar
-Java Version: 17
-Dependecies: Spring Web ( a base for full stack development and provides an
-embedded Tomcat server.) and Spring Boot DevTools (provides us with the Spring Boot developer
+Use the following criteria to generate a boilerplate project. You can then open it up in your IDE and run it:
+
+**Project:** Maven
+
+**Language:** Java
+
+**Spring Boot:** 3.1.4
+
+**Packaging:** Jar
+
+**Java Version:** 17
+
+**Dependencies:**
+
+- Spring Web: a base for full stack development and provides an
+embedded Tomcat server.
+- Spring Boot DevTools: provides us with the Spring Boot developer
 tools, which provide automatic restart functionality. It makes development much
 faster because the application is automatically restarted when changes have been
-saved.)
-
-intellij - Current File > Edit Configs > Add > Application > com.codingwithcarl.cardDB.CardDbApplication
+saved.
