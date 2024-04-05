@@ -8,9 +8,6 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/ec2-terraform)
 
-<!-- ABOUT -->
-## About
-
 This template will create a single EC2 instance with Terraform. The repository documents what the files do and what commands to run in order to successfully provision the EC2 instance.
 
 <!-- USAGE EXAMPLES -->

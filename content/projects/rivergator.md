@@ -8,9 +8,6 @@ draft: false
 
 [Visit Site »](https://www.rivergator.org/)
 
-<!-- ABOUT -->
-## About
-
 ![rivergator](/images/rivergator.png)
 
 This project was a migration from Adobe ColdFusion to WordPress. Avada and PHP were used for front end modifications. Woocommerce was integrated to facilitate transactions. Custom Post Types and WP queries were created to load in data.

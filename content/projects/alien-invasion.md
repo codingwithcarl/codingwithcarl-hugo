@@ -8,9 +8,6 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/alien-invasion)
 
-<!-- ABOUT -->
-## About
-
 ![alien-invasion](/images/alien-invasion.png)
 
 This is an arcade game similar to Space Invaders written in Python.

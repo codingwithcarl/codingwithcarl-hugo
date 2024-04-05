@@ -8,9 +8,6 @@ draft: false
 
 [Visit Site »](https://www.west360digital.com/) 
 
-<!-- ABOUT -->
-## About
-
 ![West 360](/images/west360.png)
 
 The owner of West 360 Digital reached out looking for a redesign to his current site. The new site has increased the amount of leads and conversions.

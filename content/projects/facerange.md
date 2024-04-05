@@ -8,9 +8,6 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/facerange_flask)
 
-<!-- ABOUT -->
-## About
-
 ![](https://github.com/codingwithcarl/facerange_flask/raw/master/facerange/static/images/screenshot.png)
 
 FaceRange is a flask application and fictional social networking site that is used by numerous characters from Degrassi.

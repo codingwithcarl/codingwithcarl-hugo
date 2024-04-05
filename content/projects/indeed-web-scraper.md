@@ -8,9 +8,6 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/indeed-web-scraper)
 
-<!-- ABOUT -->
-## About
-
 ![graph](/images/indeed-web-scraper.png)
 
 A tool for scraping Indeed and pushing the results to a csv file. This project also contains the analysis of search results for Philadelphia, PA.

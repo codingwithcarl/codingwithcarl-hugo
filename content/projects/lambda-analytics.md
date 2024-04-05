@@ -8,9 +8,6 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/lambda_sql_analytics)
 
-<!-- ABOUT -->
-## About
-
 This is a lambda function which queries an RDS database, writes the results to an Excel file, and saves the file to an S3 bucket.
 
 ### Built With

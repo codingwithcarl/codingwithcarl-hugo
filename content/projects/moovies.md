@@ -10,10 +10,6 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/moovies)
 
-
-<!-- ABOUT -->
-## About
-
 ![Moovies](/images/moovies.png)
 
 Online database similar to IMDB featuring films and TV shows. Powered by The Movie Database API.
