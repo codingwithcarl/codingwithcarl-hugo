@@ -12,8 +12,8 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Carl Zimmerman"
-  info = "Senior Software Engineer"
-  description = "Carl's personal website"
+  info = "Software & DevOps"
+  description = ""
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
 
@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
   favicon_32 = "images/favicon.ico"
   favicon_180 = "images/favicon.ico"
 
-  footercontent = "🐺"
+  footercontent = ""
   hideFooter = false
   hideCredits = false
   hideCopyright = false
