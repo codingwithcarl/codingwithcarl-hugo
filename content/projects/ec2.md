@@ -8,6 +8,8 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/ec2-terraform)
 
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fopensenselabs.com%2Fsites%2Fdefault%2Ffiles%2Finline-images%2Fterraform.png&f=1&nofb=1&ipt=017b1936caa58f877028ec535905a87d912c52ab74dca964acdce4c3629a0be1&ipo=images)
+
 This template will create a single EC2 instance with Terraform. The repository documents what the files do and what commands to run in order to successfully provision the EC2 instance.
 
 <!-- USAGE EXAMPLES -->

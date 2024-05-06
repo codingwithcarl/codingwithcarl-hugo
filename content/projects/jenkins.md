@@ -8,6 +8,8 @@ draft: false
 
 [View Codebase »](https://github.com/codingwithcarl/tf-jenkins-server)
 
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fio.adafruit.com%2Fblog%2Fimages%2F2016-08-31-jenkins.png&f=1&nofb=1&ipt=90039e2e0091062a4f9ab4a8bb21c9ebaa20806804d6bd4330d0d638ea8fd3b4&ipo=images)
+
 Provision Jenkins to AWS with this Terraform template. This will create several AWS resources: VPC, EC2s, Security Groups, Subnets, etc. 
 
 The Jenkins Controller and a Jenkins Agent will be provisioned on two separate EC2 instances. 

@@ -10,9 +10,6 @@ draft: true
 
 [View Codebase »]()
 
-<!-- ABOUT -->
-## About
-
 Long Description. 
 
 ### Built With
